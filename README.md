@@ -20,7 +20,12 @@ Welcome to my projects repository! This collection showcases my work in programm
 - **Technologies:** C++, Structures
 - [View Project](#)
 
-### 4. Student Marks Database Management System (C)
+### 4. Programmer Calculator (C++)
+- **Description:** A dynamic tool designed for programmers, offering functionalities such as base conversions (binary, decimal, octal), bitwise operations (AND, OR, XOR, NOT, shifts), and arithmetic calculations to simplify programming-related tasks.
+- **Technologies:** C++, Conditional logic 
+- [View Project](#)
+
+### 5. Student Marks Database Management System (C)
 - **Description:** A dynamic system for managing student marks, calculating GPA, and evaluating pass/fail status.
 - **Technologies:** C, Arrays
 - [View Project](#)
