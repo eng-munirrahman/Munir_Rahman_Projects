@@ -601,8 +601,7 @@ int main(){
     while(Exit){
     cout<<"\t\t\t<<<< 1 For Bank Admin  !"<<endl;
     cout<<"\t\t\t<<<< 2 For Bank Manager!"<<endl;
-    cout<<"\t\t\t<<<< 3 For Bank   ATM  !"<<endl;
-    cout<<"\t\t\t<<<< 4 For Bank Holder !"<<endl;
+    cout<<"\t\t\t<<<< 3 For Bank Holder !"<<endl;
     cout<<"\t\t\t<<<< 5 For   Exit !"<<endl;
     cout<<"\t\t\t<<<< Enter Choice :";
     cin>>Choice;
@@ -618,14 +617,10 @@ int main(){
     break;
     case 3:
     system("cls");
-    cout<<"\t\t-----------------<Welcome to Bank ATM>-----------------"<<endl;
-    break;
-    case 4:
-    system("cls");
     cout<<"\t\t-----------------<Welcome to Bank Holder>-----------------"<<endl;
     Holder();
     break;
-    case 5:
+    case 4:
     system("cls");
     cout<<"\t\t\t<<<< Program Exit Successfully"<<endl;
     Exit = false;
